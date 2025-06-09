@@ -1,6 +1,7 @@
 export default function Parte_centrale2() {
     return (
-      <div className="max-w-5xl mx-auto px-4 py-12 text-gray-800">
+      <div class="bg-gray-100">
+      <div className="max-w-7xl mx-auto px-4 py-12 text-gray-800 ">
         <nav className="text-sm text-gray-600 mb-4">
           <span className="font-semibold text-black">Home</span> &rsaquo; Servizi aggiuntivi
         </nav>
@@ -53,6 +54,8 @@ export default function Parte_centrale2() {
           <li>Psicologo</li>
         </ul>
       </div>
+      </div>
+
     );
   }
   

@@ -26,7 +26,7 @@ export default function Centrale() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-12">
-        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-md flex items-center space-x-3 font-semibold text-lg">
+        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-xl flex items-center space-x-3 font-semibold text-lg">
           <svg
             class="w-6 h-6 text-gray-800 dark:text-white"
             aria-hidden="true"
@@ -48,7 +48,7 @@ export default function Centrale() {
           <span>Amministrazione trasparente</span>
         </div>
 
-        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-md flex items-center space-x-3 font-semibold text-lg">
+        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-xl flex items-center space-x-3 font-semibold text-lg">
           <svg
             class="w-6 h-6 text-gray-800 dark:text-white"
             aria-hidden="true"
@@ -70,7 +70,7 @@ export default function Centrale() {
           <span>Albo pretorio online</span>
         </div>
 
-        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-md flex items-center space-x-3 font-semibold text-lg">
+        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-xl flex items-center space-x-3 font-semibold text-lg">
           <svg
             class="w-6 h-6 text-gray-800 dark:text-white"
             aria-hidden="true"
@@ -92,7 +92,7 @@ export default function Centrale() {
           <span>Contatti</span>
         </div>
 
-        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-md flex items-center space-x-3 font-semibold text-lg">
+        <div className="bg-sky-300 hover:bg-sky-400 transition-colors p-5 rounded-xl flex items-center space-x-3 font-semibold text-lg">
           <svg
             class="w-6 h-6 text-gray-800 dark:text-white"
             aria-hidden="true"
