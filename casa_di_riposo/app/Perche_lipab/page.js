@@ -5,14 +5,10 @@ import Footer from "@/Components/footer";
 
 
 const titoli = [
-  { testo: "Homepage", href: "" },
+  { testo: "Homepage", href: "/" },
   { testo: "SERVIZI", href: "Servizi" },
   { testo: "PERCHE' L'IPAB", href: "Perche_lipab" },
-  { testo: "I.P.A.B. informa", href: "/ipab-informa" },
-  { testo: "Sostienici", href: "/sostienici" },
-  { testo: "Accessi riservati", href: "/accessi-riservati" },
-  { testo: "Extranet", href: "/extranet" },
-  { testo: "Privacy", href: "/privacy" },
+  { testo: "I.P.A.B. informa", href: "ipab_informa" },
 ];
 
 

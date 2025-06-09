@@ -1,5 +1,5 @@
 import Navbar from "@/Components/navbar";
-import Centrale from "@/Components/parte_centrale";
+import Parte_centrale2 from "@/Components/parte_centrale_ipab";
 import Footer from "@/Components/footer";
 
 
@@ -20,7 +20,7 @@ export default function Home() {
     titoli ={titoli}
    /> 
 
-<Centrale />
+<Parte_centrale2 />
 
 <Footer/>
 

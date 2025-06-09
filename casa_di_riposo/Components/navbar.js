@@ -11,7 +11,7 @@ export default function Navbar({ logoSrc, titoli }) {
 
    
       <div className="flex justify-between items-center md:bg-cyan-200 p-4">
-        <div className="hidden md:flex space-x-10 md:ml-[300px] bg-cyan-200">
+        <div className="hidden md:flex space-x-10 md:ml-[630px] bg-cyan-200 text-center">
           {titoli.map(({ testo, href }, index) => (
             <Link key={index} href={href} passHref>
               <p className="cursor-pointer text-lg font-semibold hover:underline">

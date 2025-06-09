@@ -6,7 +6,7 @@ export default function Parte_centrale2() {
           <span className="font-semibold text-black">Home</span> &rsaquo; Servizi aggiuntivi
         </nav>
   
-        <h1 className="text-3xl font-extrabold text-gray-900 mb-6">
+        <h1 className="text-3xl font-extrabold text-sky-400 mb-6">
           CENTRO DIURNO "ANCHISE"
         </h1>
   
@@ -15,7 +15,7 @@ export default function Parte_centrale2() {
           vario grado di non autosufficienza, con prevalente disturbo cognitivo.
         </p>
   
-        <h2 className="text-xl font-bold mb-2">Gli obiettivi del servizio sono:</h2>
+        <h2 className="text-xl font-bold mb-2 text-sky-300">Gli obiettivi del servizio sono:</h2>
         <ul className="list-disc list-inside space-y-2 mb-6">
           <li>Sostegno e sollievo ai familiari e alla rete sociale di supporto</li>
           <li>Contrastare fenomeni di isolamento e solitudine</li>
@@ -29,7 +29,7 @@ export default function Parte_centrale2() {
           </li>
         </ul>
   
-        <h2 className="text-xl font-bold mb-2">Le attività del servizio sono:</h2>
+        <h2 className="text-xl font-bold mb-2 text-sky-300">Le attività del servizio sono:</h2>
         <ul className="list-disc list-inside space-y-2 mb-6">
           <li>Assistenza tutelare diurna</li>
           <li>Igiene e cura della persona, con stimolazione delle capacità residue</li>
@@ -43,7 +43,7 @@ export default function Parte_centrale2() {
           <li>Assistenza sanitaria</li>
         </ul>
   
-        <h2 className="text-xl font-bold mb-2">Le figure professionali:</h2>
+        <h2 className="text-xl font-bold mb-2 text-sky-300">Le figure professionali:</h2>
         <ul className="list-disc list-inside space-y-2">
           <li>Coordinatore responsabile</li>
           <li>Infermiere professionale</li>
