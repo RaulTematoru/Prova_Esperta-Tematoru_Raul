@@ -1,7 +1,7 @@
 export default function Centrale() {
   return (
-    <div className="max-w-7xl mx-auto px-4 py-10 mb-[700px]">
-      <h2 className="text-3xl font-bold text-center mb-4">Eventi e News</h2>
+    <div className="max-w-7xl mx-auto px-4 py-10 mb-[200px] mt-20">
+      <h2 className="text-3xl font-bold text-center mb-4 text-gray-600">Eventi e News</h2>
       <hr className="border-t-4 border-gray-300 mb-6 w-full" />
 
       <div className="text-sm text-gray-700 mb-2 italic">PRESENTAZIONE</div>
