@@ -1,11 +1,11 @@
 import Navbar from "@/Components/navbar";
-import Centrale from "@/Components/parte_centrale";
+import Parte_centrale2 from "@/Components/parte_centrale_lipab";
 import Footer from "@/Components/footer";
 
 
 
 const titoli = [
-  { testo: "Homepage", href: "/" },
+  { testo: "Homepage", href: "" },
   { testo: "SERVIZI", href: "Servizi" },
   { testo: "PERCHE' L'IPAB", href: "Perche_lipab" },
   { testo: "I.P.A.B. informa", href: "/ipab-informa" },
@@ -24,7 +24,7 @@ export default function Home() {
     titoli ={titoli}
    /> 
 
-<Centrale />
+<Parte_centrale2 />
 
 <Footer/>
 
